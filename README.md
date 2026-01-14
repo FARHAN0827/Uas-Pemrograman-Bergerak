@@ -1,3 +1,11 @@
+<img width="784" height="1600" alt="image" src="https://github.com/user-attachments/assets/ca18fbf3-ffcb-4a24-bdb0-6848f0afefc4" />
+<img width="786" height="1600" alt="image" src="https://github.com/user-attachments/assets/6601c9f8-ac96-449e-bd23-3ef8d75fdcae" />
+<img width="802" height="1600" alt="image" src="https://github.com/user-attachments/assets/6a3c7d17-2124-40a9-b95a-538dabab2057" />
+<img width="779" height="1599" alt="image" src="https://github.com/user-attachments/assets/3507a243-311b-4a24-aeb1-5d757001e4de" />
+
+
+
+
 import React, { useState } from 'react';
 import { ChefHat, Search, Heart, Clock, Users, Flame, Book, Home, Bookmark, User } from 'lucide-react';
 
